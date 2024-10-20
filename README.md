@@ -1,6 +1,6 @@
 # Bubble Hit Game
 
-[![Demo](https://img.shields.io/badge/Demo-BubbleHitChallenge-blue)](https://ajeetku143.github.io/Bubble-Hit-Game/)
+[![Demo](https://img.shields.io/badge/Demo-Bubble%20Hit%20Challenge-blue)](https://ajeetku143.github.io/Bubble-Hit-Game/)
 
 
 
