@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Gelasio", serif;
+}
+
+.main {
+  background: rgb(202, 238, 202);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 2px 2px black;
+}
+
+.panel {
+  box-shadow: 0 0 6px 3px rgb(67, 65, 65);
+  overflow: hidden;
+  background: white;
+  height: 80%;
+  width: 80%;
+  border-radius: 15px;
+}
+
+.p-top {
+  background-color: rgb(72, 104, 72);
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25%;
+  align-items: center;
+}
+
+.elem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  color: #b5cbaf;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.box {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  color: #384236;
+  height: 40px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 25px;
+  font-weight: 700;
+  box-shadow: 0 0 6px 2px rgb(175, 171, 171);
+}
+
+.box:hover {
+  box-shadow: 0 0 6px 4px rgb(200, 188, 97);
+}
+
+.p-btm {
+  width: 100%;
+  height: calc(100% - 100px);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.bubble {
+  height: 50px;
+  width: 50px;
+  background: rgb(72, 104, 72);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 50%;
+  font-size: 25px;
+  font-weight: 700;
+  box-shadow: 0 0 6px 2px rgb(67, 65, 65);
+}
+
+.bubble:hover {
+  cursor: pointer;
+  background: rgb(61, 76, 61);
+  box-shadow: 0 0 6px 2px rgb(86, 84, 47);
+}
+
+.refresh {
+  cursor: pointer;
+  border-radius: 5px;
+  height: 35px;
+  width: 15vh;
+  border: none;
+  box-shadow: 0 0 6px 2px rgb(188, 140, 140);
+  transition: all 0.15s ease-in;
+}
+
+.refresh:hover {
+  box-shadow: 0 0 8px 4px rgb(86, 84, 47);
+  background-color: rgb(79, 194, 62);
+  color: white;
+  height: 36px;
+  width: 16vh;
+  font-size: 15px;
+}
+
+.p-btm h2 {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: 18px;
+}
