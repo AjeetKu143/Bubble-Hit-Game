@@ -7,11 +7,6 @@ Bubble Hit Game is a fun and interactive web game where players aim to match the
 - [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Game Preview](#game-preview)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - Random number generation for target "Hit" number.
