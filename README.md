@@ -1,6 +1,6 @@
 # Bubble Hit Game
 
-[![Demo](https://img.shields.io/badge/Demo-BubbleHitChallenge-blue)](https://ajeetku143.github.io/Bubble-Hit-Game/)
+[![Demo](https://img.shields.io/badge/Demo-Bubble-Hit-Game-blue)](https://ajeetku143.github.io/Bubble-Hit-Game/)
 
 Bubble Hit Game is a fun and interactive web game where players aim to match the target number by clicking on the correct bubbles. With a countdown timer adding pressure, the goal is to achieve the highest score possible before time runs out. 
 
